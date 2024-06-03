@@ -630,7 +630,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 988k out of 137m users</span>
+                                    <span class="gh">ranked 988k out of 136m users</span>
                                 </div>
                                 <div class="text">Published 41 public repositories</div>
                             </div>
@@ -744,7 +744,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.69m out of 209m repositories</span>
+                                    <span class="gh">ranked 2.69m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1024,7 +1024,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2024, 20:15:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jun 2024, 21:10:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
